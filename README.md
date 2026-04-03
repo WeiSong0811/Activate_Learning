@@ -1,1 +1,4 @@
 # Activate_Learning
+实现Kmeans聚类
+使用KMeans找到最有利于模型训练的样本
+从而实现主动学习策略
